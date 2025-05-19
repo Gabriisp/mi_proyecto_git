@@ -1,2 +1,2 @@
 # mi_proyecto_git
-Buenas
+<h1>Buenas</h1>
